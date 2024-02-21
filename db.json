@@ -21,7 +21,7 @@
         "canDeleteOwner": true,
         "canCreateProperty": true,
         "canDeleteProperty": true
-      },
+      }
     },
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9......"
   }
