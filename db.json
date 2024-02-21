@@ -1,0 +1,30 @@
+{
+  "msg": "Login successful!",
+  "data": {
+    "user": {
+      "id": "e87e0b0b-d67e-4921-818b-533d7ac52b1a",
+      "email": "admin@example.com",
+      "name": "Administrator",
+      "lastName": "General",
+      "documentId": null,
+      "phoneNumber": null,
+      "prefixPhone": null,
+      "verifiedEmail": true,
+      "Role": {
+        "id": 1,
+        "title": "Admin",
+        "canCreateAdmin": true,
+        "canDeleteAdmin": true,
+        "canCreateAgent": true,
+        "canDeleteAgent": true,
+        "canCreateOwner": true,
+        "canDeleteOwner": true,
+        "canCreateProperty": true,
+        "canDeleteProperty": true
+      },
+      "createdAt": "2024-02-18T04:03:46.394Z",
+      "updatedAt": "2024-02-18T04:03:46.394Z"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9......"
+  }
+}
